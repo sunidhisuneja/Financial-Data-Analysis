@@ -1,2 +1,2 @@
-# Financial-Data-Analysis
+# Python Financial-Data-Analysis
 This is my first project on Python.
